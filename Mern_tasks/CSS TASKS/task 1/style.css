@@ -1,0 +1,81 @@
+table,
+tr,
+td,
+th {
+  border-radius: 10px;
+  margin: auto;
+  width: 900px;
+  background-color: lightseagreen;
+}
+.age {
+  display: inline-block;
+  width: 150px;
+}
+h1 {
+  text-align: center;
+  text-decoration: underline;
+  color: red;
+}
+#shape1 {
+  height: 70px;
+  width: 110px;
+  border: 3px solid chartreuse;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+}
+#shape2 {
+  height: 70px;
+  width: 110px;
+  border: 3px solid chartreuse;
+  border-radius: 7px;
+  margin-right: 20px;
+}
+#shape3 {
+  height: 70px;
+  width: 110px;
+  border: 3px solid chartreuse;
+  border-radius: 20px;
+}
+#shape4 {
+  height: 70px;
+  width: 110px;
+  border: 3px solid chartreuse;
+  border-radius: 7px;
+  margin-bottom: 20px;
+}
+#shape5 {
+  height: 70px;
+  width: 110px;
+  border: 3px solid chartreuse;
+}
+#shape6 {
+  height: 70px;
+  width: 110px;
+  border: 3px solid chartreuse;
+  border-radius: 20px;
+}
+#shape7 {
+  height: 70px;
+  width: 110px;
+  border: 3px solid chartreuse;
+  border-radius: 50%;
+}
+#shape8 {
+  height: 70px;
+  width: 110px;
+  border: 3px solid chartreuse;
+}
+#shape9 {
+  height: 70px;
+  width: 110px;
+  border: 3px solid chartreuse;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+}
+.container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  margin: auto;
+  width: 400px;
+}
